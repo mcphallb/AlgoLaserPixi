@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary DisplayName="AlgolaserPixi10W">
+    <Material name="Acrylic (Black)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Black)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.5000" Desc="3.5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Black)/3.5000/3.5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="6.0000" Desc="6mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Black)/6.0000/6mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="3"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="8.0000" Desc="8mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Black)/8.0000/8mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="4"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="10.0000" Desc="10mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Black)/10.0000/10mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="5"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="15.0000" Desc="15mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Black)/15.0000/15mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="7"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="20.0000" Desc="20mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Black)/20.0000/20mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="15"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="25.0000" Desc="25mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Black)/25.0000/25mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="20"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="30.0000" Desc="30mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Black)/30.0000/30mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="25"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Acrylic (Green)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Green)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="66.6667"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Green)/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Green)/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="4"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="8.0000" Desc="8mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Green)/8.0000/8mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="8"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Acrylic (Orange)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Orange)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="66.6667"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Orange)/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Acrylic (Red)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Red)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="66.6667"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Red)/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Red)/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="4"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="10.0000" Desc="10mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Red)/10.0000/10mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="10"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Acrylic (Yellow)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Yellow)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="66.6667"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Yellow)/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic (Yellow)/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="3"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Board (Black Card)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Black Card)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="1.0000" Desc="1mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Black Card)/1.0000/1mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="11.6667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="2.5000" Desc="2.5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Black Card)/2.5000/2.5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Board (Coated Duplex)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Coated Duplex)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="1.0000" Desc="1mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Coated Duplex)/1.0000/1mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="10"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="2.0000" Desc="2mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Coated Duplex)/2.0000/2mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="5"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Board (Corrugated)">
+        <Entry Thickness="2.0000" Desc="2mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Corrugated)/2.0000/2mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="16.6667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Corrugated)/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="13.3333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Board (Gray Card)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Gray Card)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.07"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="1.0000" Desc="1mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Gray Card)/1.0000/1mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="10"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="2.0000" Desc="2mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Gray Card)/2.0000/2mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="5"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Gray Card)/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Board (Pine)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Pine)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="70"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.07"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Pine)/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="10.0000" Desc="10mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Pine)/10.0000/10mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="12.0000" Desc="12mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Pine)/12.0000/12mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="3"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="15.0000" Desc="15mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Pine)/15.0000/15mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="2.5"/>
+                <numPasses Value="6"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="19.0000" Desc="19mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Pine)/19.0000/19mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="2.5"/>
+                <numPasses Value="9"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="20.0000" Desc="20mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (Pine)/20.0000/20mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="2.5"/>
+                <numPasses Value="10"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Board (White Card)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (White Card)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="70"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="1.0000" Desc="1mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (White Card)/1.0000/1mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="15"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="2.5000" Desc="2.5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (White Card)/2.5000/2.5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Board (White Card)/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Canvas (Colored)">
+        <Entry Thickness="0.6000" Desc="0.6mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Canvas (Colored)/0.6000/0.6mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="15"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Canvas (Navy Blue)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Canvas (Navy Blue)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="30"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Canvas (White)">
+        <Entry Thickness="0.6000" Desc="0.6mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Canvas (White)/0.6000/0.6mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="15"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Leather">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Leather/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="50"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.07"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="1.5000" Desc="1.5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Leather/1.5000/1.5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="6.66667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="2.0000" Desc="2mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Leather/2.0000/2mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="6.66667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="MDF">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="MDF/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.07"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="MDF/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="MDF/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <numPasses Value="4"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Metal (Coated)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Metal (Coated)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="83.3333"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Plank (Paulownia)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plank (Paulownia)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="40"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plank (Paulownia)/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="10"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plank (Paulownia)/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="8.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="8.0000" Desc="8mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plank (Paulownia)/8.0000/8mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="5"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="10.0000" Desc="10mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plank (Paulownia)/10.0000/10mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="5"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="12.0000" Desc="12mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plank (Paulownia)/12.0000/12mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Plywood (Basswood)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Basswood)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.07"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Basswood)/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="8.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Basswood)/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="6.0000" Desc="6mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Basswood)/6.0000/6mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="8.0000" Desc="8mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Basswood)/8.0000/8mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="5"/>
+                <numPasses Value="3"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="10.0000" Desc="10mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Basswood)/10.0000/10mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <numPasses Value="3"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="12.0000" Desc="12mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Basswood)/12.0000/12mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="3"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="13.0000" Desc="13mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Basswood)/13.0000/13mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="4"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Plywood (Birch)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Birch)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.07"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="4.0000" Desc="4mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Birch)/4.0000/4mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="6.0000" Desc="6mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Birch)/6.0000/6mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Plywood (Eucalyptus)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Eucalyptus)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="90"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.07"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood (Eucalyptus)/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="4"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="PolyVinyl Chloride">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="PolyVinyl Chloride/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="30"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="PolyVinyl Chloride/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="15"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="PolyVinyl Chloride/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="11.6667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Sheet (Black Abs)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Sheet (Black Abs)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="50"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="1.0000" Desc="1mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Sheet (Black Abs)/1.0000/1mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="8.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="2.0000" Desc="2mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Sheet (Black Abs)/2.0000/2mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Sheet (Black Abs)/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="4.0000" Desc="4mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Sheet (Black Abs)/4.0000/4mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="6.0000" Desc="6mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Sheet (Black Abs)/6.0000/6mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Sheet (Cold Rolled)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Sheet (Cold Rolled)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="66.6667"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Sheet (White Abs)">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Sheet (White Abs)/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="25"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="1.0000" Desc="1mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Sheet (White Abs)/1.0000/1mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Stainless steel">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Stainless steel/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="66.6667"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Walnut">
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Walnut/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="6.66667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Walnut/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="8.0000" Desc="8mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Walnut/8.0000/8mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="10.0000" Desc="10mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Walnut/10.0000/10mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <numPasses Value="8"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="12.0000" Desc="12mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Walnut/12.0000/12mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <numPasses Value="10"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="bamboo">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="bamboo/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="8.5000" Desc="8.5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="bamboo/8.5000/8.5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="6"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="cherry wood">
+        <Entry Thickness="3.0000" Desc="3mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="cherry wood/3.0000/3mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="5"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.0000" Desc="5mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="cherry wood/5.0000/5mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="8.0000" Desc="8mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="cherry wood/8.0000/8mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="10.0000" Desc="10mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="cherry wood/10.0000/10mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="3.33333"/>
+                <numPasses Value="4"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="colored paper">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="colored paper/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="25"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="0.2000" Desc="0.2mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="colored paper/0.2000/0.2mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="16.6667"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="denim">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="denim/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="40"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="0.7000" Desc="0.7mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="denim/0.7000/0.7mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="15"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="0.8000" Desc="0.8mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="denim/0.8000/0.8mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="15"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="dry leaves">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="dry leaves/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="20"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="rubber">
+        <Entry Thickness="-1.0000" Desc="Engrave" NoThickTitle="Engrave">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="rubber/Engrave/Engrave"/>
+                <minPower Value="0"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <interval Value="0.05"/>
+                <priority Value="0"/>
+                <ditherMode Value="jarvis"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="1.0000" Desc="1mm">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="rubber/1.0000/1mm"/>
+                <minPower Value="100"/>
+                <maxPower Value="100"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1.66667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+</LightBurnLibrary>
